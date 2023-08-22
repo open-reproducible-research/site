@@ -1,0 +1,61 @@
+---
+title: "Programação da disciplina"
+---
+
+# Assista o vídeo
+
+\<iframe width="1257" height="707" src="https://www.youtube.com/embed/FpCrY7x5nEE" title="Será que há crise da possibilidade de reprodução na ciência? --- Matt Anticole" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen\>\</iframe\>
+
+## 
+
+## Programação dos encontros
+
+|        |                                                                                                                                                                                                       |                                |          |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|----------|
+| **\#** | **Tópicos**                                                                                                                                                                                           | **Carga-horária (Horas/aula)** | **Data** |
+| 1      | Introdução à disciplina e discussão sobre a importância da produção de conhecimento científico em colaboração.                                                                                        | 4                              | 08/08    |
+| 2      | Princípios de ciência aberta - apresentação de questões para resposta em sala pelos estudante abordando os princípios de ciência aberta. Fechamento do encontro com a formalização desses princípios. | 4                              | 22/08    |
+| 3      | Os estudantes deverão trazer exemplos de projetos de pesquisa/artigos que se fundamentam nos princípios de ciência aberta para que possamos explorar em sala de aula.                                 | 4                              | 29/08    |
+| 4      | Ética em pesquisa                                                                                                                                                                                     | 4                              | 05/09    |
+| 5      | Elaboração de projetos de pesquisa para captação de recursos seguindo as melhores práticas internacionais                                                                                             | 4                              | 12/09    |
+| 6      | Elaboração de projetos de pesquisa para captação de recursos as seguindo melhores práticas internacionais                                                                                             | 4                              | 19/09    |
+| 7      | Elaboração de projetos de pesquisa para captação de recursos seguindo as melhores práticas internacionais                                                                                             | 4                              | 26/09    |
+| 8      | Elaboração de projetos de pesquisa para captação de recursos seguindo as melhores práticas internacionais                                                                                             | 4                              | 03/10    |
+| 9      | Planejamento para organização, armazenagem e disponibilização dos arquivos de pesquisa - curadoria de dados                                                                                           | 4                              | 17/10    |
+| 10     | Uso de plataformas de AI na construção do referencial teórico e instrumentos para gestão bibliográfica.                                                                                               | 4                              | 24/10    |
+| 11     | Submissão de artigos científicos em periódicos nacionais e internacionais.                                                                                                                            | 5                              | 31/10    |
+|        | **Total**                                                                                                                                                                                             | **45**                         |          |
+
+## Critérios de avaliação
+
+|     |                                                                           |                                                                                                                                                                                                                                          |     |
+|-----|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 1   | Participação e presença                                                   | Frequência e participação ativa nas aulas, argumentando a partir de atividades realizadas a priori.                                                                                                                                      | 10% |
+| 2   | Revista sobre Ciência aberta destinada à comunidade do CEFET-MG           | Em conjunto, os estudantes deverão elaborar uma revista curta (folhetim) que traga elementos de discussão sobre os princípios de ciência aberta e sua importância para produção de conhecimento científico de maneira ética e confiável. | 40% |
+| 3   | Resumo estendido do artigo                                                | Cada grupo deverá apresentar um resumo estendido de um artigo em elaboração contendo contexto, relevância, objetivo, abordagem metodológica e resultados esperados. Será feito um seminário para apresentação do resumo.                 | 20% |
+| 5   | Reelaboração do resumo de um artigo contendo princípios de ciência aberta | O resumo deverá ser reescrito incluindo princípios de ciência aberta. Será feito um seminário para apresentação do resumo.                                                                                                               | 30% |
+
+## Referência básica
+
+[Manual de Formação em Ciência Aberta](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_PT//)
+
+## Bibliografia complementar
+
+|                 |                                                                                                                                                                                                                                                          |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| \#              | **Títulos**                                                                                                                                                                                                                                              |
+| 1               | CHRISTENSEN, Garret S.; FREESE, Jeremy; MIGUEL, Edward. **Transparent and reproducible social science research: how to do open science**. Oakland, California: University of California Press, 2019.                                                     |
+| 2               | MARTINS, H. C.. (2020). **A importância da Ciência Aberta (Open Science) na pesquisa em Administração.** Revista de Administração Contemporânea, 24(1), 01--02. https://doi.org/10.1590/1982-7849rac2020190380                                           |
+| 3               | UNESCO. **Open Science Toolkit.** Disponível em https://www.unesco.org/en/open-science. Acessado em 23/06/2023.                                                                                                                                          |
+| 4               | RITCHIE, Stuart. **Science Fictions: how fraud, bias, negligence and Hype undermine the search for truth**. New York: Henry Holt and Company, 2020.                                                                                                      |
+| 5               | MIEDEMA, Frank. **Open Science: the Very Idea**. Springer. 2022                                                                                                                                                                                          |
+| [6]{.underline} | OECD. **Making Open Science a Reality**, OECD Science, Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris, https://doi.org/10.1787/5jrs2f963zs1-en. 2015                                                                              |
+| 7               | STENGERS, Isabelle. **Another Science is Possible: A manifesto for slow science.** Cambridge, UK: Polity. 2017                                                                                                                                           |
+| 8               | FAPESP**. Open Science \@ FAPESP**. Disponível em https://www.fapesp.br/openscience/. Acesso em 23/06/2023.                                                                                                                                              |
+| 9               | EUROPEAN COMISSION. **Horizon Europe MSCA - How to apply.** Disponível em https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/horizon-europe-msca-how-apply_en#doctoral-networks\--call-2023. Acesso em 23/06/2023 |
+| 10              | OPEN SCIENCE BRASIL. **Open Science Brasil.** Disponível em [[https://opensciencebr.com/]{.underline}](https://opensciencebr.com/). Acesso em 23/06/2023.                                                                                                |
+| 11              | CENTER FOR OPEN SCIENCE. **Manage and share your research with OSF -- an easy, integrated platform**. Disponível em [[https://www.cos.io/products/osf]{.underline}](https://www.cos.io/products/osf). Acesso em 23/06/2023.                              |
+| 12              | EUROPEAN COMISSION. **Horizon Europe: Program Guide.** 2022.                                                                                                                                                                                             |
+| 13              | EUROPEAN COMISSION. **EU Funding & Tenders.** 2022.                                                                                                                                                                                                      |
+
+## 

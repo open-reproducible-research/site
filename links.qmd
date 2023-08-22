@@ -1,0 +1,13 @@
+---
+title: "Programação da disciplina"
+---
+
+## Links interessantes
+
+[FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/)
+
+[Boas práticas em pesquisa no Brasil - USP](https://cienciaaberta.usp.br/boas-praticas-em-pesquisa/)
+
+[Artigo sobre Revisão por pares aberta](https://f1000research.com/articles/6-588/v2)
+
+[Glossário](https://www.ciencia-aberta.pt/glossario)

@@ -1,0 +1,10 @@
+---
+title: "Em casa"
+subtitle: "Aula 02"
+---
+
+# Assista o vídeo
+
+\<iframe width="1257" height="707" src="https://www.youtube.com/embed/FpCrY7x5nEE" title="Será que há crise da possibilidade de reprodução na ciência? --- Matt Anticole" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen\>\</iframe\>
+
+

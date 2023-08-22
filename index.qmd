@@ -1,0 +1,29 @@
+---
+title: "Ciência aberta e em colaboração"
+---
+
+A ciência aberta tem o potencial de tornar o processo científico mais transparente, inclusivo e democrático.
+
+A ciência aberta:
+
+-   aumenta as colaborações científicas e a partilha de informação para benefício da ciência e da sociedade;
+
+-   torna o conhecimento científico multilingue abertamente disponível, acessível e reutilizável para todos; e
+
+-   abre os processos de criação, avaliação e comunicação de conhecimentos científicos a outros actores da sociedade para além da comunidade científica tradicional.
+
+O nosso mundo interligado precisa de ciência aberta para ajudar a resolver desafios sociais, ambientais e económicos complexos e alcançar os Objectivos de Desenvolvimento Sustentável.
+
+Ao promover uma ciência mais acessível, inclusiva e transparente, promove-se o direito de todos a partilharem o progresso científico e os seus benefícios, tal como previsto no n.º 1 do artigo 27.º da [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights). [^1]
+
+[^1]: [UNESCO](https://www.unesco.org/en/open-science/about?hub=686)
+
+::: box
+**Tão aberto quanto possível**
+
+O acesso ao conhecimento científico deve ser tão aberto quanto possível, mas, por vezes, pode ser necessário restringir o acesso, por exemplo, para proteger os direitos humanos, a confidencialidade, os direitos de propriedade intelectual, as informações pessoais, as espécies ameaçadas ou em perigo de extinção e os conhecimentos indígenas sagrados e secretos. A ciência aberta incentiva os cientistas a desenvolverem ferramentas e métodos de gestão de dados, de modo a que o maior número possível de dados possa ser partilhado, conforme adequado.
+:::
+
+::: large-text
+Vamos descobrir juntos como promover uma ciência mais acessível, inclusiva e transparente?
+:::

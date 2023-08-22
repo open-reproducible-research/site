@@ -1,0 +1,187 @@
+---
+title: "Ciência aberta e em colaboração"
+subtitle: "Semana 01"
+author: "Renata Oliveira"
+#subtitle: "Sejam bem vindos!"
+footer:  "[Ciência aberta e em colaboração](https://open-reproducible-research.github.io/website/)"
+#logo: "images/logo.png"
+title-slide-attributes: 
+  data-background-size: contain
+  data-background-color: '#5B888C'
+format: 
+  revealjs: 
+    embed-resources: false
+    theme: 
+      - dark
+      - slides.scss
+    incremental: true
+    multiplex: true
+    transition: fade
+    slide-number: c/t
+    width: 1600
+    height: 900
+    echo: false
+    scrollable: true
+    preview-links: auto
+    chalkboard: true
+    highlight-style: github
+editor: source
+execute:
+  freeze: auto
+---
+
+
+## Agenda
+1. Conhecendo os pares
+2. Aquecimento
+3. Perguntas e respostas
+4. Apresentação de conceitos
+5. Razões para fazer ciência aberta
+6. Reprodutibilidade - iniciativa brasileira
+7. Proposição de temas para desenvolvimento do projeto 
+
+
+## Conhecendo os pares
+
+- Qual o seu sabor de sorvete favorito?
+- O que vc mais ama no mundo?
+- Se você fosse para uma ilha deserta e só pudesse levar um objeto e uma pessoa, o que e quem seria?
+- Você sabe utilizar R ou Python?
+- Você é mais para gatos ou cachorros?
+- Você já pensou em algum tema para sua pesquisa?
+- Você já teve COVID-19?
+
+
+## Aquecimento
+
+1. Escreva uma pergunta sobre seu entendimento preliminar de **ciência aberta** no ChatGPT.   
+Exemplo: "Assuma que você é um pesquisador do CEFET_MG em campos das ciências sociais aplicadas. O que é Ciência Aberta?" 
+
+2. Copie e cole no [Padlet](https://padlet.com/renataoliveira/ci-ncia-aberta-e-em-colabora-o-dhb0fd7faebyahdd) da disciplina. [Tempo](https://apps.garrickadenbuie.com/countdown/?_inputs_&time=%2220%3A00%22&update_every=%2210%22&warn_time=%225%3A00%22)
+
+3. Vamos discutir
+
+
+
+## Perguntas e respostas
+
+- O que é e por que fazer ciência em colaboração?
+- Qual a diferença entre Ciência Aberta e 'ciência'?
+- A Ciência Aberta excluí as Ciências Socias e Humanas?
+- A Ciência Aberta conduz ao uso indevido ou incompreensão da investigação?
+- A Ciência Aberta irá provocar uma sobrecarga de informação?
+
+
+## O que é e por que fazer ciência em colaboração?
+
+
+. . .
+
+### Caso de sucesso: **COVID-19**
+
+
+[Retratação](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31324-6/fulltext)
+
+[Retraction watch](https://retractionwatch.com/)
+
+[Retracted papers - COVID-19](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/)
+
+[E as citações continuam...](https://www.science.org/content/article/many-scientists-citing-two-scandalous-covid-19-papers-ignore-their-retractions)
+
+## Qual a diferença entre Ciência Aberta e 'ciência'?
+
+. . . 
+
+::: {.pol}
+Ciência Aberta implica fazer ciência tradicional com mais **transparência** nas suas várias fases, por exemplo **partilhando de forma aberta código e dados**. Muitos investigadores já fazem isto atualmente, mas não lhe chamam Ciência Aberta.
+:::
+
+## A Ciência Aberta excluí as Ciências Socias e Humanas?
+
+. . .
+
+Não, o termo Ciência Aberta é **inclusivo**. Na verdade, o que acontece é que por vezes a Ciência Aberta é genericamente referida como "Investigação Aberta" ou **"Investigação Académica Aberta"** (de "Open Scholarship") para ser mais inclusiva a outras disciplinas, princípios e práticas. No entanto, Ciência Aberta é um termo comumente usado em vários níveis e, portanto, faz sentido adotá-lo para **fins de comunicação, com a condição que inclui todas as disciplinas da investigação**.
+
+## A Ciência Aberta conduz ao uso indevido ou incompreensão da investigação?
+
+. . . 
+
+**Não**, a aplicação dos princípios da Ciência Aberta é, de fato, **uma proteção contra o uso indevido ou mal-entendido**. A **transparência** gera **confiança** e permite que outras pessoas **verifiquem e validem** o processo de investigação.
+
+## A Ciência Aberta irá provocar uma sobrecarga de informação?
+
+. . . 
+
+
+É melhor ter muita informação e lidar com isso, do que ter muito pouca e viver com o risco de perder as partes importantes. E há tecnologias como RSS feeds, aprendizagem automática ou de máquina e inteligência artificial que facilitam a agregação de conteúdo.
+
+# Apresentação de conceitos
+
+## Ciência aberta
+
+A Ciência Aberta é a **atividade científica praticada de modo aberto, colaborativo e transparente, em todos os domínios do conhecimento**, desde as **ciências fundamentais até às ciências sociais e humanidades**.
+
+![](ca_deve_ser.png)
+
+## Ciência aberta
+
+"A prática da ciência de tal forma que outros podem colaborar e contribuir, na qual os dados de pesquisa, as notas de laboratório e outros processos de pesquisa estão disponíveis livremente, em condições que permitem a reutilização, redistribuição e reprodução da pesquisa e dos dados e métodos subjacentes."
+
+FOSTER, Open Science Definition
+
+. . . 
+
+A Ciência Aberta implica aumentar o rigor, a responsabilidade e a reprodutibilidade da investigação. Baseia-se em princípios de inclusão, justiça, equidade e partilha e, em última instância, procura mudar o modo como a investigação é realizada, quem está envolvido e como é valorizada. O objetivo é tornar a investigação mais aberta à participação, à revisão/refutação, à melhoria e ao seu (re)uso para benefício de todos.
+
+## Ciência aberta
+
+Existem várias definições de "abertura" no que diz respeito à ciência; a Open Definition define-a assim: "Os dados e conteúdos abertos podem ser usados livremente, modificados e partilhados por qualquer pessoa para qualquer fim". A Ciência Aberta engloba uma série de práticas, normalmente incluindo áreas como o acesso aberto às publicações, dados de investigação abertos, software e ferramentas de código aberto, fluxos de trabalho abertos, ciência cidadã, recursos educativos abertos e métodos alternativos para avaliar a investigação, incluindo a revisão pelos pares aberta (Pontika et al., 2015).
+
+
+## Razões para a ciência aberta
+
+::: incremental
+-   Preserva, valoriza e partilha a produção científica
+-   Promove o Acesso Aberto / FAIR (Findable, Accessible, Interoperable, and Re-usable) aos dados e publicações científicas
+-   Protege e valoriza a propriedade intelectual
+-   Promove a eficiência do processo científico
+-   Aumenta a visibilidade e reconhecimento dos investigadores e das instituições
+-   Amplifica o impacto da investigação, estimula a criatividade e a inovação
+-   Promove a responsabilidade social científica e a apropriação social do conhecimento
+-   Promove a transparência e o conhecimento do processo científico
+-   Envolve a sociedade no processo de (co) criação e fruição do conhecimento
+-   Democratiza o acesso ao conhecimento científico e potencia o desenvolvimento
+:::
+
+---
+
+# A ciência aberta tem o potencial de tornar o processo científico mais transparente, inclusivo e democrático.
+---
+
+## A ciência aberta:
+
+-   aumenta as colaborações científicas e a partilha de informação para benefício da ciência e da sociedade;
+
+-   torna o conhecimento científico multilingue abertamente disponível, acessível e reutilizável para todos; e
+
+-   abre os processos de criação, avaliação e comunicação de conhecimentos científicos a outros actores da sociedade para além da comunidade científica tradicional.
+
+- O nosso mundo interligado precisa de ciência aberta para ajudar a resolver desafios sociais, ambientais e económicos complexos e alcançar os Objectivos de Desenvolvimento Sustentável.
+
+- Ao promover uma ciência mais acessível, inclusiva e transparente, promove-se o direito de todos a partilharem o progresso científico e os seus benefícios, tal como previsto no n.º 1 do artigo 27.º da [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights). [^1]
+
+[^1]: [UNESCO](https://www.unesco.org/en/open-science/about?hub=686)
+
+
+
+
+## Como esses conceitos podem ser aplicados para investigações em ciências sociais aplicadas?
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/s49F3UmLs2M" title="Iniciativa Brasileira de Reprodutibilidade: chamada para laboratórios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+
+
+# Proposição de temas para desenvolvimento do projeto individual em colaboração.
+

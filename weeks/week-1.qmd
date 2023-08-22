@@ -1,0 +1,29 @@
+---
+title: "Unidade 1 - Ciência em colaboração"
+subtitle: "Introdução a princípios e práticas da ciência aberta e em colaboração"
+editor: visual
+---
+
+## Prepare-se!
+
+📖 Leia o [programa](/programa.html)
+
+📖 Leia o [suporte](/suporte.html)
+
+## Participe!
+
+🖥️ [Aula 01 -Sejam bem vindes, vindas e vindos.](/slides/class01.html)
+
+## Envolva-se!
+
+📋 [Padlet](https://padlet.com/renataoliveira/ci-ncia-aberta-e-em-colabora-o-dhb0fd7faebyahdd)
+
+## Aprenda!
+
+⌨️ A atividade para o próximo encontro será postada até quarta-feira da semana corrente.
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Voltar para [Planejamento da disciplina](/ "programa") ⏎
+:::
