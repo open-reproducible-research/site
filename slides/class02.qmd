@@ -1,0 +1,262 @@
+---
+title: "Ciência aberta e em colaboração"
+subtitle: "Semana 02"
+author: "Renata Oliveira"
+#subtitle: "Sejam bem vindos!"
+footer:  "[Ciência aberta e em colaboração](https://open-reproducible-research.github.io/website/)"
+#logo: "images/logo.png"
+title-slide-attributes: 
+  data-background-size: contain
+  data-background-color: '#5B888C'        
+format: 
+  revealjs: 
+    embed-resources: false
+    theme: 
+      - dark
+      - slides.scss
+    incremental: true
+    multiplex: true
+    transition: fade
+    slide-number: c/t
+    width: 1600
+    height: 900
+    echo: false
+    scrollable: true
+    preview-links: auto
+    chalkboard: true
+    highlight-style: github
+editor: source
+execute:
+  freeze: auto
+---
+
+
+## Agenda
+1. Retrospecto
+2. Apresentação de conceitos
+3. Razões para fazer ciência aberta
+4. Atividades que suportam a ciência aberta 
+5. Acesso aberto
+6. Dados abertos
+
+# Apresentação de conceitos
+
+## Ciência aberta
+
+A Ciência Aberta é a **atividade científica praticada de modo aberto, colaborativo e transparente, em todos os domínios do conhecimento**, desde as **ciências fundamentais até às ciências sociais e humanidades**.
+
+![](ca_deve_ser.png)
+
+## Ciência aberta
+
+"A prática da ciência de tal forma que outros podem colaborar e contribuir, na qual os dados de pesquisa, as notas de laboratório e outros processos de pesquisa estão disponíveis livremente, em condições que permitem a reutilização, redistribuição e reprodução da pesquisa e dos dados e métodos subjacentes."
+
+FOSTER, Open Science Definition
+
+. . . 
+
+A Ciência Aberta implica aumentar o rigor, a responsabilidade e a reprodutibilidade da investigação. Baseia-se em princípios de inclusão, justiça, equidade e partilha e, em última instância, procura mudar o modo como a investigação é realizada, quem está envolvido e como é valorizada. O objetivo é tornar a investigação mais aberta à participação, à revisão/refutação, à melhoria e ao seu (re)uso para benefício de todos.
+
+## Ciência aberta
+
+Existem várias definições de "abertura" no que diz respeito à ciência; a Open Definition define-a assim: "Os dados e conteúdos abertos podem ser usados livremente, modificados e partilhados por qualquer pessoa para qualquer fim". A Ciência Aberta engloba uma série de práticas, normalmente incluindo áreas como o acesso aberto às publicações, dados de investigação abertos, software e ferramentas de código aberto, fluxos de trabalho abertos, ciência cidadã, recursos educativos abertos e métodos alternativos para avaliar a investigação, incluindo a revisão pelos pares aberta (Pontika et al., 2015).
+
+
+## Razões para a ciência aberta
+
+::: incremental
+-   Preserva, valoriza e partilha a produção científica
+-   Promove o Acesso Aberto / FAIR (Findable, Accessible, Interoperable, and Re-usable) aos dados e publicações científicas
+-   Protege e valoriza a propriedade intelectual
+-   Promove a eficiência do processo científico
+-   Aumenta a visibilidade e reconhecimento dos investigadores e das instituições
+-   Amplifica o impacto da investigação, estimula a criatividade e a inovação
+-   Promove a responsabilidade social científica e a apropriação social do conhecimento
+-   Promove a transparência e o conhecimento do processo científico
+-   Envolve a sociedade no processo de (co) criação e fruição do conhecimento
+-   Democratiza o acesso ao conhecimento científico e potencia o desenvolvimento
+:::
+
+---
+
+# A ciência aberta tem o potencial de tornar o processo científico mais transparente, inclusivo e democrático.
+---
+
+## A ciência aberta:
+
+-   aumenta as colaborações científicas e a partilha de informação para benefício da ciência e da sociedade;
+
+-   torna o conhecimento científico multilingue abertamente disponível, acessível e reutilizável para todos; e
+
+-   abre os processos de criação, avaliação e comunicação de conhecimentos científicos a outros actores da sociedade para além da comunidade científica tradicional.
+
+- O nosso mundo interligado precisa de ciência aberta para ajudar a resolver desafios sociais, ambientais e económicos complexos e alcançar os Objectivos de Desenvolvimento Sustentável.
+
+- Ao promover uma ciência mais acessível, inclusiva e transparente, promove-se o direito de todos a partilharem o progresso científico e os seus benefícios, tal como previsto no n.º 1 do artigo 27.º da [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights). [^1]
+
+[^1]: [UNESCO](https://www.unesco.org/en/open-science/about?hub=686)
+
+## Práticas que fundamentam a ciência aberta
+- Acesso aberto
+- Dados abertos
+- Pesquisa aberta e reprodutível
+- Avaliação aberta
+- Políticas abertas
+- Licenciamento aberto
+- Direitrizes abertas
+- Projetos abertos
+- Comunicação aberta sobre ciência
+
+## Acesso aberto
+O **Acesso Aberto** significa que publicações resultantes de investigação como artigos e livros podem ser acessados de maneira digital, isentos de pagamento por qualquer utilizador, sem obstáculos técnicos (como o registo obrigatório ou a identificação em plataformas específicas). No mínimo, essas publicações podem ser lidas online, descarregadas e impressas. Idealmente, devem ser concedidos direitos adicionais, como o direito a copiar, distribuir, pesquisar, referenciar, rastrear e extrair texto e dados.
+
+## Acesso aberto
+- **Acesso Aberto Verde** (autoarquivo): A versão publicada ou o manuscrito final revisto por pares, que foi aceite para publicação, é disponibilizado de forma livre e aberta pelo autor, ou por um seu representante, num repositório. 
+
+- **Acesso Aberto Dourado** (publicação em Acesso Aberto): O trabalho publicado é disponibilizado em Acesso Aberto pelo editor logo que publicado. O modelo de negócio mais comum é baseado no pagamento feito pelos autores (designado APCs - taxa de processamento do artigo, ou BPCs - taxa de processamento do livro). 
+
+- **Preprint**
+
+## Acesso aberto
+
+[Budapeste Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/)
+
+[Registry of Open Access Repositories](http://roar.eprints.org)
+
+[Base de Dados Científicos da UFPR](https://bdc.c3sl.ufpr.br)
+
+[Directory of Open Access Books](https://doabooks.org)
+
+[DOAJ](https://www.doaj.org)
+
+[Knowledge Unlatched](https://knowledgeunlatched.org)
+
+[Unpaywall](https://unpaywall.org/welcome)
+
+[OSF](https://osf.io/preprints/)
+
+[Sci-hub](https://sci-hub.ru/)
+
+[Github](http://github.com)
+
+[Kaggle](https://www.kaggle.com)
+
+ 
+## Acesso aberto
+![](02_open_access_archives.png)
+
+## Acesso aberto - Atividade
+1. Pesquisem nos repositórios acima fontes bibliográficas abertas e preprints sobre a temática do seu trabalho. 
+
+2. Baixe os artigos e inclua essas publicações em uma pasta do Zotero.
+
+## Dados abertos
+
+Dados de investigação abertos são dados que podem ser livremente acedidos, reutilizados, remisturados e redistribuídos, para efeitos de investigação académica e ensino e outros fins. 
+
+Idealmente, os dados abertos não têm restrições de reutilização ou redistribuição, e têm licenças apropriadas para tal. Em casos excecionais, por exemplo para proteção de identidade de pessoas, são estabelecidas restrições especiais ou limitadas de acesso. 
+
+Compartilhar abertamente os dados expõe-nos à inspeção, o que constitui a base para a verificação e reprodutibilidade da investigação, e abre o caminho para a mais ampla colaboração. 
+
+No máximo, os dados abertos podem estar sujeitos ao requisito de atribuição e compartilhamento de modo igual.
+
+## Dados abertos
+
+![](02_open_research_data_material.png)
+
+## Dados abertos
+- Publicar junto com o artigo
+- Inserir dados em site disponível publicamente
+- Depositar os dados num repositório que tenha sido desenvolvido para apoiar a publicação de dados
+- Publicar um artigo de dados sobre o conjunto de dados, que pode ser publicado como preprint, numa revista científica, ou numa revista de dados que é dedicada a artigos de dados.
+
+## Dados abertos
+Use um arquivo de dados externo ou um repositório já estabelecido para a sua área de investigação para preservar os dados de acordo com os padrões reconhecidos na sua disciplina ou domínio de investigação.
+
+Se disponível, use um repositório institucional de dados de investigação, ou os recursos de gestão de dados estabelecidos pelo seu grupo de investigação.
+
+Use um repositório de dados gratuito tal como Dataverse, Dryad, figshare ou Zenodo.
+
+Procure outros repositórios de dados em re3data. Não existe um filtro único no re3data que cubra os princípios FAIR, mas considere as seguintes opções de filtros para o ajudar a encontrar repositórios compatíveis com os princípios FAIR: categorias de acesso, licenças de uso dos dados, repositórios de dados confiáveis (com certificado ou com adesão explícita a padrões de arquivo ) e se o repositório atribui um identificador persistente (PID) aos dados. Outro aspeto a considerar é se o repositório suporta versionamento.
+
+## Dados abertos
+
+### Data management plan - Plano da gestão de dados
+- Que dados e metadados associados, documentação e código serão depositados? 
+
+- Quanto tempo é necessário conservar os dados? 
+
+- Por quanto tempo os dados devem permanecer reutilizáveis? 
+
+- Como vão estar disponíveis os dados? 
+
+- Que categoria de acesso vai escolher?
+
+## Dados abertos
+
+Para que sejam considerados dados publicáveis, é necessário que: 
+
+- Devidamente documentado com metadados;
+
+- Revisto quanto à qualidade, ex. conteúdo do estudo, metodologia, relevância, consistência legal e documentação de materiais;
+
+- Pesquisável e localizável em catálogos (ou bases de dados);
+
+- Citável em artigos.
+
+## Dados abertos
+[Lattes data](https://lattesdata.cnpq.br)
+
+[Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data/)
+
+[Force11](https://force11.org/info/the-fair-data-principles/)
+
+[Data Ocean](https://en.dataoceanai.com/aboutus/contactus/catid-41.htm?gclid=CjwKCAjw3dCnBhBCEiwAVvLcu4wUX0B0BOi0JGhdScM2o3UpI5oq3g80HjAsJqloH0D5mGCkO90t0RoCdTkQAvD_BwE)
+
+[Dataverse](https://en.wikipedia.org/wiki/Dataverse)
+
+[Figshare](https://figshare.com)
+
+[Nature](https://www.nature.com/sdata/)
+
+[Zenodo](https://zenodo.org)
+
+[Data Science Journal](https://codata.org/publications/data-science-journal/)
+
+[Dryad](https://datadryad.org/stash/requirements#depositing-cost)
+
+[Re3data](https://www.re3data.org)
+
+[Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Adapt-your-DMP-part-6)
+
+[DataCite](https://datacite.org)
+
+[Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md)
+
+[Digital Curation Center](https://www.dcc.ac.uk/dmponline)
+
+[Data Sphere](https://data.projectdatasphere.org/projectdatasphere/html/home)
+
+[Binder](https://mybinder.org)
+
+[FAIRMetrics](https://github.com/FAIRMetrics/Metrics)
+
+[GoFAIR](https://www.go-fair.org/fair-principles/)
+
+## Dados abertos
+![](02_open_licensing.png)
+
+## Projetos abertos
+[OpenAire](https://explore.openaire.eu)
+
+
+
+## Dados abertos - Atividade
+1. Abra uma base de dados que já tenha utilizado em trabalhos acadêmicos ou mesmo a base de dados secundários do seu trabalho. 
+
+2. Organize os dados segundo os princípios FAIR
+
+3. Acesse o Lattes Data e verifique se é possível carregar os dados na plataforma
+
+4. Abra o [edital do CNPq](http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=encerradas&detalha=chamadaDivulgada&idDivulgacao=11525) e verifique se você encontra princípios e atividades de ciência aberta na demanda!
+

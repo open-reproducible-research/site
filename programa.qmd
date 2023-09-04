@@ -17,7 +17,7 @@ Esta disciplina tem por objetivo formar estudantes aptos a:\
 ## Unidades de ensino
 
 |                        |                                                                                                         |                                |
-|---------------|------------------------------------------|---------------|
+|-----------------|---------------------------------------|-----------------|
 | **Unidades de ensino** | **Tópicos**                                                                                             | **Carga-horária (Horas/aula)** |
 | 1                      | Ciência em colaboração                                                                                  | 4                              |
 | 2                      | Princípios de ciência aberta                                                                            | 8                              |
@@ -31,7 +31,7 @@ Esta disciplina tem por objetivo formar estudantes aptos a:\
 ## Programação dos encontros
 
 |        |                                                                                                                                                                                                       |                                |          |
-|---------|----------------------------------------------|---------|---------|
+|------------|-------------------------------------|------------|------------|
 | **\#** | **Tópicos**                                                                                                                                                                                           | **Carga-horária (Horas/aula)** | **Data** |
 | 1      | Introdução à disciplina e discussão sobre a importância da produção de conhecimento científico em colaboração.                                                                                        | 4                              | 08/08    |
 | 2      | Princípios de ciência aberta - apresentação de questões para resposta em sala pelos estudante abordando os princípios de ciência aberta. Fechamento do encontro com a formalização desses princípios. | 4                              | 22/08    |
@@ -49,7 +49,7 @@ Esta disciplina tem por objetivo formar estudantes aptos a:\
 ## Critérios de avaliação
 
 |     |                                                                           |                                                                                                                                                                                                                                          |     |
-|----------|----------|-------------------------------------------|----------|
+|-------------|-------------|-----------------------------------|-------------|
 | 1   | Participação e presença                                                   | Frequência e participação ativa nas aulas, argumentando a partir de atividades realizadas a priori.                                                                                                                                      | 10% |
 | 2   | Revista sobre Ciência aberta destinada à comunidade do CEFET-MG           | Em conjunto, os estudantes deverão elaborar uma revista curta (folhetim) que traga elementos de discussão sobre os princípios de ciência aberta e sua importância para produção de conhecimento científico de maneira ética e confiável. | 40% |
 | 3   | Resumo estendido do artigo                                                | Cada grupo deverá apresentar um resumo estendido de um artigo em elaboração contendo contexto, relevância, objetivo, abordagem metodológica e resultados esperados. Será feito um seminário para apresentação do resumo.                 | 20% |
@@ -57,12 +57,12 @@ Esta disciplina tem por objetivo formar estudantes aptos a:\
 
 ## Referência básica
 
-[Manual de Formação em Ciência Aberta](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_PT//)
+[Manual de Formação em Ciência Aberta](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_PT/)
 
 ## Bibliografia complementar
 
 |                 |                                                                                                                                                                                                                                                          |
-|------------|------------------------------------------------------------|
+|----------------|--------------------------------------------------------|
 | \#              | **Títulos**                                                                                                                                                                                                                                              |
 | 1               | CHRISTENSEN, Garret S.; FREESE, Jeremy; MIGUEL, Edward. **Transparent and reproducible social science research: how to do open science**. Oakland, California: University of California Press, 2019.                                                     |
 | 2               | MARTINS, H. C.. (2020). **A importância da Ciência Aberta (Open Science) na pesquisa em Administração.** Revista de Administração Contemporânea, 24(1), 01--02. https://doi.org/10.1590/1982-7849rac2020190380                                           |

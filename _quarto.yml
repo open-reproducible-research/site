@@ -42,8 +42,8 @@ website:
         contents:
           - href: weeks/week-1.qmd
             text: "Semana 1"
-          # - href: weeks/week-2.qmd
-          #   text: "Semana 2"
+          - href: weeks/week-2.qmd
+            text: "Semana 2"
           # - href: weeks/week-3.qmd
           #   text: "Semana 3"
           # - href: weeks/week-4.qmd

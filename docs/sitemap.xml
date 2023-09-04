@@ -2,54 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://open-reproducible-research.github.io/website/home/home01.html</loc>
-    <lastmod>2023-08-21T21:38:29.069Z</lastmod>
+    <lastmod>2023-09-04T00:50:04.001Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/LICENSE.html</loc>
-    <lastmod>2023-08-21T21:38:32.633Z</lastmod>
+    <lastmod>2023-09-04T00:50:05.580Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/geral.html</loc>
-    <lastmod>2023-08-21T21:38:33.523Z</lastmod>
+    <lastmod>2023-09-04T00:50:06.136Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/weeks/week-1.html</loc>
-    <lastmod>2023-08-21T21:38:34.289Z</lastmod>
+    <lastmod>2023-09-04T00:50:06.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://open-reproducible-research.github.io/website/weeks/week-2.html</loc>
+    <lastmod>2023-09-04T00:50:07.107Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/programa.html</loc>
-    <lastmod>2023-08-21T21:38:35.718Z</lastmod>
+    <lastmod>2023-09-04T00:50:07.981Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/project-tips-resources.html</loc>
-    <lastmod>2023-08-21T21:38:38.663Z</lastmod>
+    <lastmod>2023-09-04T00:50:09.876Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/index.html</loc>
-    <lastmod>2023-08-21T21:38:39.772Z</lastmod>
+    <lastmod>2023-09-04T00:50:10.560Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/slides/class01.html</loc>
-    <lastmod>2023-08-21T21:38:42.604Z</lastmod>
+    <lastmod>2023-09-04T00:50:11.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://open-reproducible-research.github.io/website/slides/class02.html</loc>
+    <lastmod>2023-09-04T00:50:12.704Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/links.html</loc>
-    <lastmod>2023-08-21T21:38:43.366Z</lastmod>
+    <lastmod>2023-09-04T00:50:13.613Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/introducao.html</loc>
-    <lastmod>2023-08-21T21:38:43.882Z</lastmod>
+    <lastmod>2023-09-04T00:50:14.309Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/class/class01_aula.html</loc>
-    <lastmod>2023-08-21T21:38:45.158Z</lastmod>
+    <lastmod>2023-09-04T00:50:15.627Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/project-description.html</loc>
-    <lastmod>2023-08-21T21:38:48.588Z</lastmod>
+    <lastmod>2023-09-04T00:50:18.252Z</lastmod>
   </url>
   <url>
     <loc>https://open-reproducible-research.github.io/website/suporte.html</loc>
-    <lastmod>2023-08-21T21:38:49.142Z</lastmod>
+    <lastmod>2023-09-04T00:50:18.762Z</lastmod>
   </url>
 </urlset>

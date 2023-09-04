@@ -56,6 +56,41 @@
     "text": "Aprenda!\n⌨️ A atividade para o próximo encontro será postada até quarta-feira da semana corrente.\n\n\nVoltar para Planejamento da disciplina ⏎"
   },
   {
+    "objectID": "weeks/week-2.html",
+    "href": "weeks/week-2.html",
+    "title": "Unidade 1 - Ciência em colaboração",
+    "section": "",
+    "text": "📖 Leia o programa\n📖 Leia o suporte"
+  },
+  {
+    "objectID": "weeks/week-2.html#prepare-se",
+    "href": "weeks/week-2.html#prepare-se",
+    "title": "Unidade 1 - Ciência em colaboração",
+    "section": "",
+    "text": "📖 Leia o programa\n📖 Leia o suporte"
+  },
+  {
+    "objectID": "weeks/week-2.html#participe",
+    "href": "weeks/week-2.html#participe",
+    "title": "Unidade 1 - Ciência em colaboração",
+    "section": "Participe!",
+    "text": "Participe!\n🖥️ Aula 2 - Acesso e dados abertos"
+  },
+  {
+    "objectID": "weeks/week-2.html#envolva-se",
+    "href": "weeks/week-2.html#envolva-se",
+    "title": "Unidade 1 - Ciência em colaboração",
+    "section": "Envolva-se!",
+    "text": "Envolva-se!\n📋 Padlet"
+  },
+  {
+    "objectID": "weeks/week-2.html#aprenda",
+    "href": "weeks/week-2.html#aprenda",
+    "title": "Unidade 1 - Ciência em colaboração",
+    "section": "Aprenda!",
+    "text": "Aprenda!\n⌨️ A atividade para o próximo encontro será postada até quarta-feira da semana corrente.\n\n\nVoltar para Planejamento da disciplina ⏎"
+  },
+  {
     "objectID": "programa.html",
     "href": "programa.html",
     "title": "Programação da disciplina",
@@ -264,6 +299,160 @@
     "title": "Ciência aberta e em colaboração",
     "section": "Como esses conceitos podem ser aplicados para investigações em ciências sociais aplicadas?",
     "text": "Como esses conceitos podem ser aplicados para investigações em ciências sociais aplicadas?"
+  },
+  {
+    "objectID": "slides/class02.html#agenda",
+    "href": "slides/class02.html#agenda",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Agenda",
+    "text": "Agenda\n\nRetrospecto\nApresentação de conceitos\nRazões para fazer ciência aberta\nAtividades que suportam a ciência aberta\nAcesso aberto\nDados abertos"
+  },
+  {
+    "objectID": "slides/class02.html#ciência-aberta",
+    "href": "slides/class02.html#ciência-aberta",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Ciência aberta",
+    "text": "Ciência aberta\nA Ciência Aberta é a atividade científica praticada de modo aberto, colaborativo e transparente, em todos os domínios do conhecimento, desde as ciências fundamentais até às ciências sociais e humanidades."
+  },
+  {
+    "objectID": "slides/class02.html#ciência-aberta-1",
+    "href": "slides/class02.html#ciência-aberta-1",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Ciência aberta",
+    "text": "Ciência aberta\n“A prática da ciência de tal forma que outros podem colaborar e contribuir, na qual os dados de pesquisa, as notas de laboratório e outros processos de pesquisa estão disponíveis livremente, em condições que permitem a reutilização, redistribuição e reprodução da pesquisa e dos dados e métodos subjacentes.”\nFOSTER, Open Science Definition\n\nA Ciência Aberta implica aumentar o rigor, a responsabilidade e a reprodutibilidade da investigação. Baseia-se em princípios de inclusão, justiça, equidade e partilha e, em última instância, procura mudar o modo como a investigação é realizada, quem está envolvido e como é valorizada. O objetivo é tornar a investigação mais aberta à participação, à revisão/refutação, à melhoria e ao seu (re)uso para benefício de todos."
+  },
+  {
+    "objectID": "slides/class02.html#ciência-aberta-2",
+    "href": "slides/class02.html#ciência-aberta-2",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Ciência aberta",
+    "text": "Ciência aberta\nExistem várias definições de “abertura” no que diz respeito à ciência; a Open Definition define-a assim: “Os dados e conteúdos abertos podem ser usados livremente, modificados e partilhados por qualquer pessoa para qualquer fim”. A Ciência Aberta engloba uma série de práticas, normalmente incluindo áreas como o acesso aberto às publicações, dados de investigação abertos, software e ferramentas de código aberto, fluxos de trabalho abertos, ciência cidadã, recursos educativos abertos e métodos alternativos para avaliar a investigação, incluindo a revisão pelos pares aberta (Pontika et al., 2015)."
+  },
+  {
+    "objectID": "slides/class02.html#razões-para-a-ciência-aberta",
+    "href": "slides/class02.html#razões-para-a-ciência-aberta",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Razões para a ciência aberta",
+    "text": "Razões para a ciência aberta\n\n\nPreserva, valoriza e partilha a produção científica\nPromove o Acesso Aberto / FAIR (Findable, Accessible, Interoperable, and Re-usable) aos dados e publicações científicas\nProtege e valoriza a propriedade intelectual\nPromove a eficiência do processo científico\nAumenta a visibilidade e reconhecimento dos investigadores e das instituições\nAmplifica o impacto da investigação, estimula a criatividade e a inovação\nPromove a responsabilidade social científica e a apropriação social do conhecimento\nPromove a transparência e o conhecimento do processo científico\nEnvolve a sociedade no processo de (co) criação e fruição do conhecimento\nDemocratiza o acesso ao conhecimento científico e potencia o desenvolvimento"
+  },
+  {
+    "objectID": "slides/class02.html#a-ciência-aberta",
+    "href": "slides/class02.html#a-ciência-aberta",
+    "title": "Ciência aberta e em colaboração",
+    "section": "A ciência aberta:",
+    "text": "A ciência aberta:\n\naumenta as colaborações científicas e a partilha de informação para benefício da ciência e da sociedade;\ntorna o conhecimento científico multilingue abertamente disponível, acessível e reutilizável para todos; e\nabre os processos de criação, avaliação e comunicação de conhecimentos científicos a outros actores da sociedade para além da comunidade científica tradicional.\nO nosso mundo interligado precisa de ciência aberta para ajudar a resolver desafios sociais, ambientais e económicos complexos e alcançar os Objectivos de Desenvolvimento Sustentável.\nAo promover uma ciência mais acessível, inclusiva e transparente, promove-se o direito de todos a partilharem o progresso científico e os seus benefícios, tal como previsto no n.º 1 do artigo 27.º da Declaração Universal dos Direitos Humanos. 1\n\nUNESCO"
+  },
+  {
+    "objectID": "slides/class02.html#práticas-que-fundamentam-a-ciência-aberta",
+    "href": "slides/class02.html#práticas-que-fundamentam-a-ciência-aberta",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Práticas que fundamentam a ciência aberta",
+    "text": "Práticas que fundamentam a ciência aberta\n\nAcesso aberto\nDados abertos\nPesquisa aberta e reprodutível\nAvaliação aberta\nPolíticas abertas\nLicenciamento aberto\nDireitrizes abertas\nProjetos abertos\nComunicação aberta sobre ciência"
+  },
+  {
+    "objectID": "slides/class02.html#acesso-aberto",
+    "href": "slides/class02.html#acesso-aberto",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Acesso aberto",
+    "text": "Acesso aberto\nO Acesso Aberto significa que publicações resultantes de investigação como artigos e livros podem ser acessados de maneira digital, isentos de pagamento por qualquer utilizador, sem obstáculos técnicos (como o registo obrigatório ou a identificação em plataformas específicas). No mínimo, essas publicações podem ser lidas online, descarregadas e impressas. Idealmente, devem ser concedidos direitos adicionais, como o direito a copiar, distribuir, pesquisar, referenciar, rastrear e extrair texto e dados."
+  },
+  {
+    "objectID": "slides/class02.html#acesso-aberto-1",
+    "href": "slides/class02.html#acesso-aberto-1",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Acesso aberto",
+    "text": "Acesso aberto\n\nAcesso Aberto Verde (autoarquivo): A versão publicada ou o manuscrito final revisto por pares, que foi aceite para publicação, é disponibilizado de forma livre e aberta pelo autor, ou por um seu representante, num repositório.\nAcesso Aberto Dourado (publicação em Acesso Aberto): O trabalho publicado é disponibilizado em Acesso Aberto pelo editor logo que publicado. O modelo de negócio mais comum é baseado no pagamento feito pelos autores (designado APCs - taxa de processamento do artigo, ou BPCs - taxa de processamento do livro).\nPreprint"
+  },
+  {
+    "objectID": "slides/class02.html#acesso-aberto-2",
+    "href": "slides/class02.html#acesso-aberto-2",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Acesso aberto",
+    "text": "Acesso aberto\nBudapeste Open Access Initiative\nRegistry of Open Access Repositories\nBase de Dados Científicos da UFPR\nDirectory of Open Access Books\nDOAJ\nKnowledge Unlatched\nUnpaywall\nOSF\nSci-hub\nGithub\nKaggle"
+  },
+  {
+    "objectID": "slides/class02.html#acesso-aberto-3",
+    "href": "slides/class02.html#acesso-aberto-3",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Acesso aberto",
+    "text": "Acesso aberto"
+  },
+  {
+    "objectID": "slides/class02.html#acesso-aberto---atividade",
+    "href": "slides/class02.html#acesso-aberto---atividade",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Acesso aberto - Atividade",
+    "text": "Acesso aberto - Atividade\n\nPesquisem nos repositórios acima fontes bibliográficas abertas e preprints sobre a temática do seu trabalho.\nBaixe os artigos e inclua essas publicações em uma pasta do Zotero."
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos",
+    "href": "slides/class02.html#dados-abertos",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\nDados de investigação abertos são dados que podem ser livremente acedidos, reutilizados, remisturados e redistribuídos, para efeitos de investigação académica e ensino e outros fins.\nIdealmente, os dados abertos não têm restrições de reutilização ou redistribuição, e têm licenças apropriadas para tal. Em casos excecionais, por exemplo para proteção de identidade de pessoas, são estabelecidas restrições especiais ou limitadas de acesso.\nCompartilhar abertamente os dados expõe-nos à inspeção, o que constitui a base para a verificação e reprodutibilidade da investigação, e abre o caminho para a mais ampla colaboração.\nNo máximo, os dados abertos podem estar sujeitos ao requisito de atribuição e compartilhamento de modo igual."
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-1",
+    "href": "slides/class02.html#dados-abertos-1",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos"
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-2",
+    "href": "slides/class02.html#dados-abertos-2",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\n\nPublicar junto com o artigo\nInserir dados em site disponível publicamente\nDepositar os dados num repositório que tenha sido desenvolvido para apoiar a publicação de dados\nPublicar um artigo de dados sobre o conjunto de dados, que pode ser publicado como preprint, numa revista científica, ou numa revista de dados que é dedicada a artigos de dados."
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-3",
+    "href": "slides/class02.html#dados-abertos-3",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\nUse um arquivo de dados externo ou um repositório já estabelecido para a sua área de investigação para preservar os dados de acordo com os padrões reconhecidos na sua disciplina ou domínio de investigação.\nSe disponível, use um repositório institucional de dados de investigação, ou os recursos de gestão de dados estabelecidos pelo seu grupo de investigação.\nUse um repositório de dados gratuito tal como Dataverse, Dryad, figshare ou Zenodo.\nProcure outros repositórios de dados em re3data. Não existe um filtro único no re3data que cubra os princípios FAIR, mas considere as seguintes opções de filtros para o ajudar a encontrar repositórios compatíveis com os princípios FAIR: categorias de acesso, licenças de uso dos dados, repositórios de dados confiáveis (com certificado ou com adesão explícita a padrões de arquivo ) e se o repositório atribui um identificador persistente (PID) aos dados. Outro aspeto a considerar é se o repositório suporta versionamento."
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-4",
+    "href": "slides/class02.html#dados-abertos-4",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\nData management plan - Plano da gestão de dados\n\nQue dados e metadados associados, documentação e código serão depositados?\nQuanto tempo é necessário conservar os dados?\nPor quanto tempo os dados devem permanecer reutilizáveis?\nComo vão estar disponíveis os dados?\nQue categoria de acesso vai escolher?"
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-5",
+    "href": "slides/class02.html#dados-abertos-5",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\nPara que sejam considerados dados publicáveis, é necessário que:\n\nDevidamente documentado com metadados;\nRevisto quanto à qualidade, ex. conteúdo do estudo, metodologia, relevância, consistência legal e documentação de materiais;\nPesquisável e localizável em catálogos (ou bases de dados);\nCitável em artigos."
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-6",
+    "href": "slides/class02.html#dados-abertos-6",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos\nLattes data\nOpen Data Handbook\nForce11\nData Ocean\nDataverse\nFigshare\nNature\nZenodo\nData Science Journal\nDryad\nRe3data\nData Management Expert Guide\nDataCite\nData Packaging Guide\nDigital Curation Center\nData Sphere\nBinder\nFAIRMetrics\nGoFAIR"
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos-7",
+    "href": "slides/class02.html#dados-abertos-7",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos",
+    "text": "Dados abertos"
+  },
+  {
+    "objectID": "slides/class02.html#projetos-abertos",
+    "href": "slides/class02.html#projetos-abertos",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Projetos abertos",
+    "text": "Projetos abertos\nOpenAire"
+  },
+  {
+    "objectID": "slides/class02.html#dados-abertos---atividade",
+    "href": "slides/class02.html#dados-abertos---atividade",
+    "title": "Ciência aberta e em colaboração",
+    "section": "Dados abertos - Atividade",
+    "text": "Dados abertos - Atividade\n\nAbra uma base de dados que já tenha utilizado em trabalhos acadêmicos ou mesmo a base de dados secundários do seu trabalho.\nOrganize os dados segundo os princípios FAIR\nAcesse o Lattes Data e verifique se é possível carregar os dados na plataforma\nAbra o edital do CNPq e verifique se você encontra princípios e atividades de ciência aberta na demanda!\n\n\n\nCiência aberta e em colaboração"
   },
   {
     "objectID": "links.html",
