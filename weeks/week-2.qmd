@@ -12,7 +12,7 @@ editor: visual
 
 ## Participe!
 
-🖥️ [Aula 2 - Acesso e dados abertos](/slides/class2.html)
+🖥️ [Aula 2 - Acesso e dados abertos](/slides/class02.html)
 
 ## Envolva-se!
 
